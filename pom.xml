@@ -4,8 +4,8 @@
 
   <groupId>core</groupId>
   <artifactId>JUnitParameterization40</artifactId>
-  <version>02.11.2015.40</version> 
-  <!-- <version>${build.version}</version>this is what happaned I was debugging this peace of shit for 2 days because 
+  <version>${build.version}</version> 
+  <!-- <version>02.11.2015.40</version>this is what happaned I was debugging this peace of shit for 2 days because 
   pom file would not recognise that the --> 
   <packaging>jar</packaging>
 
